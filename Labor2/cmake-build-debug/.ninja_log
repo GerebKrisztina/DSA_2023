@@ -1,0 +1,6 @@
+# ninja log v5
+0	931	6986745643069149	CMakeFiles/Labor2.dir/src/main.c.obj	597b8c297ad11c68
+4	277	6986745869129773	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
+1	105	6986746573936552	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
+2	132	6986752462550561	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
+132	250	6986752463678605	Labor2.exe	e024ca652bfbb851
