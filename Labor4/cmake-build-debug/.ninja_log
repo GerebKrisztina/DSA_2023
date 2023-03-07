@@ -1,0 +1,25 @@
+# ninja log v5
+5	446	6998760545322543	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+1	136	6998760617596754	CMakeFiles/Labor4.dir/src/main.c.obj	7c9f320e3658e52a
+136	693	6998760623148996	Labor4.exe	afae780b28476878
+3	96	6998760965792341	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+96	215	6998760966956710	Labor4.exe	afae780b28476878
+2	122	6998761172135393	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+122	310	6998761173901710	Labor4.exe	afae780b28476878
+2	83	6998761538581467	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+83	192	6998761539619765	Labor4.exe	afae780b28476878
+2	122	6998761824664770	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+123	260	6998761826024608	Labor4.exe	afae780b28476878
+5	120	6998761933354648	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+121	264	6998761934753782	Labor4.exe	afae780b28476878
+3	99	6998762359964255	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+99	219	6998762361102423	Labor4.exe	afae780b28476878
+11	135	6998765476506704	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+2	103	6998767929919227	CMakeFiles/Labor4.dir/src/main.c.obj	7c9f320e3658e52a
+103	234	6998767931216511	Labor4.exe	afae780b28476878
+2	95	6998768656401579	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+95	214	6998768657562200	Labor4.exe	afae780b28476878
+2	89	6998768800469272	CMakeFiles/Labor4.dir/src/functions_student.c.obj	477ec62cf212d43
+89	230	6998768801813132	Labor4.exe	afae780b28476878
+2	117	6998771515741470	CMakeFiles/Labor4.dir/src/main.c.obj	7c9f320e3658e52a
+118	294	6998771517008384	Labor4.exe	afae780b28476878

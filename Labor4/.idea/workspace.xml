@@ -3,15 +3,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Labor3" targetName="Labor3" />
+      <config projectName="Labor4" targetName="Labor4" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7457c9b9-6793-4235-9ec5-a8023bff237b" name="Changes" comment="" />
+    <list default="true" id="471bfb51-0e1c-4348-b22b-8e7912e50336" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +41,7 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="3.2" />
   </component>
-  <component name="ProjectId" id="2MMALHzDHLRggjkG6Ony94Fz86v" />
+  <component name="ProjectId" id="2MfuNhfoJFHmqTr8O4qBRgpMNlJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +54,6 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/Egyetem/DSA_2022/Labs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,13 +63,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor3\cmake-build-debug" />
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor3\src" />
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor3\headers" />
+      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor4\src" />
+      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor4\headers" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Labor3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Labor3" TARGET_NAME="Labor3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Labor3" RUN_TARGET_NAME="Labor3">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Labor4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Labor4" TARGET_NAME="Labor4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Labor4" RUN_TARGET_NAME="Labor4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -79,14 +82,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7457c9b9-6793-4235-9ec5-a8023bff237b" name="Changes" comment="" />
-      <created>1677567019189</created>
+      <changelist id="471bfb51-0e1c-4348-b22b-8e7912e50336" name="Changes" comment="" />
+      <created>1678170919913</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677567019189</updated>
-      <workItem from="1677567020600" duration="3796000" />
-      <workItem from="1678132384598" duration="608000" />
-      <workItem from="1678169706943" duration="1296000" />
+      <updated>1678170919913</updated>
+      <workItem from="1678170927531" duration="3747000" />
     </task>
     <servers />
   </component>
