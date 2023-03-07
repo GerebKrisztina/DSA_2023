@@ -1,7 +1,14 @@
 # ninja log v5
 0	931	6986745643069149	CMakeFiles/Labor2.dir/src/main.c.obj	597b8c297ad11c68
+<<<<<<< HEAD
 2	132	6986752462550561	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
 132	250	6986752463678605	Labor2.exe	e024ca652bfbb851
 2	195	6992694987991378	CMakeFiles/Labor2.dir/src/main.c.obj	ccccfaf77e8d9602
 10	415	6992694990196787	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	2952ab9901cf844
 415	1116	6992694997145134	Labor2.exe	e024ca652bfbb851
+=======
+4	277	6986745869129773	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
+1	105	6986746573936552	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
+2	132	6986752462550561	CMakeFiles/Labor2.dir/src/functions_matrix.c.obj	96c5912531e1de7f
+132	250	6986752463678605	Labor2.exe	e024ca652bfbb851
+>>>>>>> 00a56ea6039b1f0266911f0e71dc311f6e0f325d
