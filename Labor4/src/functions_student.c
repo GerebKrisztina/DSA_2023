@@ -19,7 +19,7 @@ void readStudentDetails(Student_t *pStudent){
     scanf("%[^\n]", pStudent->birthPlace);
     scanf("%i%i%i\n", &pStudent->dateOfBirth.year, &pStudent->dateOfBirth.month, &pStudent->dateOfBirth.day);
     scanf("%i", &pStudent->gender);
-    scanf("%f", &pStudent->examResult);
+    scanf("%f\n", &pStudent->examResult);
 }
 
 void printStudent(Student_t student){
@@ -30,3 +30,38 @@ void printStudent(Student_t student){
     printf("\tStudent gender: %s\n", getGenderDescription(student.gender));
     printf("\tStudent exam result: %.2f\n", student.examResult);
 }
+
+void allocateMemoryForStudents(Student_t **dpStudents, int numberOfStudents){
+    *dpStudents = (Student_t *) malloc(numberOfStudents * sizeof (Student_t));
+    if(!(*dpStudents)) {
+        printf(MEMORY_ALLOCATION_ERROR_MESSAGE);
+        exit(MEMORY_ALLOCATION_ERROR_CODE);
+    }
+}
+
+void readAllStudentsDetails(Student_t **dpStudents, int *numberOfStudents, const char *input){
+    if(!freopen(input,"r", stdin)) {
+        printf(FILE_OPEN_MESSAGE);
+        exit(FILE_OPEN_ERROR_CODE);
+    }
+    scanf("%i\n", numberOfStudents);
+    allocateMemoryForStudents(&(*dpStudents), *numberOfStudents);
+    for (int i = 0; i < *numberOfStudents; ++i) {
+        readStudentDetails(&((*dpStudents)[i]));
+    }
+    freopen("CON", "r", stdin);
+}
+void printAllStudents(Student_t *pStudents, int numberOfStudents, const char *destination){
+    freopen(destination, "w", stdout);
+    for(int i=0; i<numberOfStudents; ++i) {
+        printStudent(pStudents[i]);
+    }
+    freopen("CON", "w", stdout);
+}
+
+void deallocateMemoryForStudents(Student_t **dpStudents) {
+    free(*dpStudents);
+    (*dpStudents) = NULL;
+}
+
+

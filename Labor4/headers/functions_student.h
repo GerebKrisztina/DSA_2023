@@ -26,5 +26,11 @@ typedef struct{
 char * getGenderDescription(enum Gender gender);
 void readStudentDetails(Student_t *pStudent);
 void printStudent(Student_t student);
+void allocateMemoryForStudents(Student_t **dpStudents, int numberOfStudents);
+void readAllStudentsDetails(Student_t **dpStudents, int *numberOfStudents, const char *input);
+void printAllStudents(Student_t *pStudents, int numberOfStudents, const char *destination);
+void deallocateMemoryForStudents(Student_t **dpStudents);
+
+
 
 #endif //LABOR4_FUNCTIONS_STUDENT_H
