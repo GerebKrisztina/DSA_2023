@@ -13,7 +13,7 @@ typedef struct {
     int capacity;
     int size;
     int *elements;
-}IntArray;
+}Person;
 
 void createIntArray(int capacity, IntArray* pArray);
 void printArray(IntArray array);
