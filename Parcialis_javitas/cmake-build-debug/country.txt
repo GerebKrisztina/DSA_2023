@@ -1,0 +1,18 @@
+Orszag 1
+15
+0
+Orszag 2
+542
+1
+Orszag 3
+152
+1
+Orszag 4
+17
+1
+Orszag 5
+41
+0
+Orszag 6
+12
+0

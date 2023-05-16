@@ -1,0 +1,25 @@
+# ninja log v5
+14	470	7059192580889780	CMakeFiles/ParcialisGyakorlas.dir/src/main.c.obj	c8f8cfcc2d0661e2
+3	173	7059200516151656	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+1	306	7059196204582423	CMakeFiles/Parcialisgyakorlas.dir/src/binarytree.c.obj	9cda1e085aa77936
+307	872	7059196210181632	Parcialisgyakorlas.exe	13234c82c086759b
+1	86	7059202644565894	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+2	85	7059203014437853	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+3	99	7059203454645740	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+3	83	7059203655222050	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+84	184	7059203656181013	Parcialisgyakorlas.exe	13234c82c086759b
+3	81	7059203926132169	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+82	184	7059203927113518	Parcialisgyakorlas.exe	13234c82c086759b
+3	144	7059205823230621	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+9	177	7059205823590868	CMakeFiles/Parcialisgyakorlas.dir/src/binarytree.c.obj	9cda1e085aa77936
+178	437	7059205826094505	Parcialisgyakorlas.exe	13234c82c086759b
+3	103	7059206534594381	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+103	208	7059206535592364	Parcialisgyakorlas.exe	13234c82c086759b
+2	466	7059210119297573	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+1	230	7059213656075087	CMakeFiles/Parcialisgyakorlas.dir/src/binarytree.c.obj	9cda1e085aa77936
+231	545	7059213659180116	Parcialisgyakorlas.exe	13234c82c086759b
+2	113	7059214906593474	CMakeFiles/Parcialisgyakorlas.dir/src/binarytree.c.obj	9cda1e085aa77936
+114	391	7059214908619985	Parcialisgyakorlas.exe	13234c82c086759b
+9	316	7059220839780384	CMakeFiles/Parcialisgyakorlas.dir/src/main.c.obj	2a3f5c970f1d6180
+3	357	7059220840200675	CMakeFiles/Parcialisgyakorlas.dir/src/binarytree.c.obj	9cda1e085aa77936
+357	460	7059220841168087	Parcialisgyakorlas.exe	13234c82c086759b

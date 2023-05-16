@@ -1,0 +1,20 @@
+# ninja log v5
+0	699	7041074058899051	CMakeFiles/Listak.dir/src/main.c.obj	66fdad6b23e688af
+2	153	7041074146594296	CMakeFiles/Listak.dir/src/listak.c.obj	281f42960ba0aa8f
+153	585	7041074150869112	Listak.exe	5ba4a771a2dfe883
+2	175	7041078968526134	CMakeFiles/Listak.dir/src/listak.c.obj	281f42960ba0aa8f
+7	194	7041078968717594	CMakeFiles/Listak.dir/src/main.c.obj	66fdad6b23e688af
+195	482	7041078971562701	Listak.exe	5ba4a771a2dfe883
+2	100	7041079391935499	CMakeFiles/Listak.dir/src/main.c.obj	66fdad6b23e688af
+101	214	7041079393033655	Listak.exe	5ba4a771a2dfe883
+879	11561	7047104921031361	CMakeFiles/Listak.dir/src/main.c.obj	66fdad6b23e688af
+134	11565	7047104921031361	CMakeFiles/Listak.dir/src/listak.c.obj	281f42960ba0aa8f
+11566	22606	7047105032967535	Listak.exe	5ba4a771a2dfe883
+8	702	7047111025750140	CMakeFiles/Listak.dir/src/listak.c.obj	281f42960ba0aa8f
+2	711	7047111025800014	CMakeFiles/Listak.dir/src/main.c.obj	66fdad6b23e688af
+712	1752	7047111036215751	Listak.exe	5ba4a771a2dfe883
+4	140	7047111722266258	CMakeFiles/Listak.dir/src/listak.c.obj	281f42960ba0aa8f
+140	553	7047111725296537	Listak.exe	5ba4a771a2dfe883
+10	229	7047117663377728	CMakeFiles/Listak.dir/src/listak.c.obj	281f42960ba0aa8f
+2	389	7047117663848649	CMakeFiles/Listak.dir/src/main.c.obj	66fdad6b23e688af
+389	1486	7047117676037964	Listak.exe	5ba4a771a2dfe883

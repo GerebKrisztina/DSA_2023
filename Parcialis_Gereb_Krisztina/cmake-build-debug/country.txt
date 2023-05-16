@@ -1,0 +1,27 @@
+Orszag 1
+17
+1
+Orszag 2
+54
+1
+Orszag 3
+45
+1
+Orszag 4
+24
+1
+Orszag 5
+53
+1
+Orszag 6
+23
+1
+Orszag 7
+57
+1
+Orszag 8
+78
+1
+Orszag 9
+93
+1

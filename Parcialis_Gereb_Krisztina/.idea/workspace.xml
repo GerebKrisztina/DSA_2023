@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Labor4" targetName="Labor4" />
+      <config projectName="Parcialis_Gereb_Krisztina" targetName="Parcialis_Gereb_Krisztina" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471bfb51-0e1c-4348-b22b-8e7912e50336" name="Changes" comment="" />
+    <list default="true" id="78967290-9b40-4a66-911f-6ff75083eb15" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +41,7 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="3.2" />
   </component>
-  <component name="ProjectId" id="2MfuNhfoJFHmqTr8O4qBRgpMNlJ" />
+  <component name="ProjectId" id="2Nd3QbAHkm093SaN9ESkvR1bPfj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +54,6 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Egyetem/2. ev/Masodik felev/Adatszerkezetek/DSA_2023/Labor4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,12 +63,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor4\src" />
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor4\headers" />
+      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Parcialis_Gereb_Krisztina\headers" />
+      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Parcialis_Gereb_Krisztina\src" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Labor4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Labor4" TARGET_NAME="Labor4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Labor4" RUN_TARGET_NAME="Labor4">
+    <configuration name="Parcialis_Gereb_Krisztina" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Parcialis_Gereb_Krisztina" TARGET_NAME="Parcialis_Gereb_Krisztina" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Parcialis_Gereb_Krisztina" RUN_TARGET_NAME="Parcialis_Gereb_Krisztina">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -78,17 +77,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="471bfb51-0e1c-4348-b22b-8e7912e50336" name="Changes" comment="" />
-      <created>1678170919913</created>
+      <changelist id="78967290-9b40-4a66-911f-6ff75083eb15" name="Changes" comment="" />
+      <created>1679980116902</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678170919913</updated>
-      <workItem from="1678170927531" duration="3908000" />
-      <workItem from="1678774549259" duration="2902000" />
-      <workItem from="1679381250683" duration="2757000" />
-      <workItem from="1679942081584" duration="2332000" />
-      <workItem from="1679950384667" duration="5000" />
-      <workItem from="1679980028396" duration="77000" />
+      <updated>1679980116902</updated>
+      <workItem from="1679980122574" duration="6017000" />
+      <workItem from="1680585177033" duration="5140000" />
+      <workItem from="1682234418769" duration="713000" />
+      <workItem from="1682364594245" duration="539000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Parcialis_javitas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Parcialis_javitas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Parcialis_javitas-Debug-4f4a06482b69394ca335.json",
+					"name" : "Parcialis_javitas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Egyetem/2. ev/Masodik felev/Adatszerkezetek/DSA_2023/Parcialis_javitas/cmake-build-debug",
+		"source" : "D:/Egyetem/2. ev/Masodik felev/Adatszerkezetek/DSA_2023/Parcialis_javitas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -11,16 +11,16 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Labor4" targetName="Labor4" />
+      <config projectName="vere_lab4" targetName="vere_lab4" />
     </generated>
   </component>
-  <component name="CMakeSettings" AUTO_RELOAD="true">
+  <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471bfb51-0e1c-4348-b22b-8e7912e50336" name="Changes" comment="" />
+    <list default="true" id="21f0eb1e-eb10-4ede-9ffd-0b0cd0193950" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,35 +41,35 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="3.2" />
   </component>
-  <component name="ProjectId" id="2MfuNhfoJFHmqTr8O4qBRgpMNlJ" />
+  <component name="ProjectId" id="2Ou9jJbHy00A2D4ZhXDzhCUZmSE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Egyetem/2. ev/Masodik felev/Adatszerkezetek/DSA_2023/Labor4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/Egyetem/2. ev/Masodik felev/Adatszerkezetek/DSA_2023/Listak",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor4\src" />
-      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\Labor4\headers" />
+      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\vere_lab4\src" />
+      <recent name="D:\Egyetem\2. ev\Masodik felev\Adatszerkezetek\DSA_2023\vere_lab4\headers" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Labor4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Labor4" TARGET_NAME="Labor4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Labor4" RUN_TARGET_NAME="Labor4">
+    <configuration name="vere_lab4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vere_lab4" TARGET_NAME="vere_lab4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="vere_lab4" RUN_TARGET_NAME="vere_lab4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -78,17 +78,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="471bfb51-0e1c-4348-b22b-8e7912e50336" name="Changes" comment="" />
-      <created>1678170919913</created>
+      <changelist id="21f0eb1e-eb10-4ede-9ffd-0b0cd0193950" name="Changes" comment="" />
+      <created>1682399734105</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678170919913</updated>
-      <workItem from="1678170927531" duration="3908000" />
-      <workItem from="1678774549259" duration="2902000" />
-      <workItem from="1679381250683" duration="2757000" />
-      <workItem from="1679942081584" duration="2332000" />
-      <workItem from="1679950384667" duration="5000" />
-      <workItem from="1679980028396" duration="77000" />
+      <updated>1682399734105</updated>
+      <workItem from="1682399739611" duration="1754000" />
+      <workItem from="1682403463392" duration="632000" />
+      <workItem from="1682927160053" duration="64000" />
+      <workItem from="1683004265220" duration="456000" />
     </task>
     <servers />
   </component>
