@@ -54,7 +54,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/Egyetem/DSA_2022/Ismetles vizsgara/new 1.txt",
+    "last_opened_file_path": "D:/Egyetem/2. ev/Masodik felev/Adatszerkezetek/DSA_2023/Listak",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,11 +69,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="fak" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fak" TARGET_NAME="fak" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="fak" RUN_TARGET_NAME="fak">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -90,6 +85,7 @@
       <updated>1683613120472</updated>
       <workItem from="1683613122692" duration="1442000" />
       <workItem from="1684214588191" duration="940000" />
+      <workItem from="1684383595828" duration="1415000" />
     </task>
     <servers />
   </component>
